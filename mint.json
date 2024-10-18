@@ -33,28 +33,31 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "instagram",
-      "url": "https://mintlify.com/docs"
+      "name": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/ryoheiharada/"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/ryoheiharada/"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
+    },
+    {
+      "name": "Instagram",
+      "icon": "instagram",
+      "url": "https://www.instagram.com/ryoheiharada/"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "About",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
