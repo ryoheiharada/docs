@@ -33,6 +33,11 @@
   ],
   "anchors": [
     {
+      "name": "Document",
+      "icon": "home",
+      "url": "https://www.docs.ryoheiharada/"
+    },
+    {
       "name": "LinkedIn",
       "icon": "linkedin",
       "url": "https://www.linkedin.com/in/ryoheiharada/"
