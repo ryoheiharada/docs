@@ -1,5 +1,5 @@
 {
-  // "$schema": "https://mintlify.com/schema.json",
+  "$schema": "https://mintlify.com/schema.json",
   "name": "Ryohei Harada",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -15,16 +15,16 @@
       "to": "#07C983"
     }
   }
-  // "topbarLinks": [
-  //   {
-  //     "name": "Support",
-  //     "url": "mailto:hi@mintlify.com"
-  //   }
+  "topbarLinks": [
+    {
+      "name": "Support",
+      "url": "mailto:hi@mintlify.com"
+    }
   ],
-  // "topbarCtaButton": {
-  //   "name": "Dashboard",
-  //   "url": "https://dashboard.mintlify.com"
-  // },
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
+  },
   "tabs": [
     {
       "name": "API Reference",
